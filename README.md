@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parvathyvd
-- 👀 I’m interested in Frone Ende Development
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React
 - 💞️ I’m tried to work on frontend mentor projects
 
